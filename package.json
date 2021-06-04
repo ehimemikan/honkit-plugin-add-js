@@ -20,6 +20,12 @@
     "honkit": ">1.x.x"
   },
   "bugs": {
-	  "url": "https://github.com/ehimemikan/honkit-plugin-add-js/issues"
+    "url": "https://github.com/ehimemikan/honkit-plugin-add-js/issues"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "tmp": "^0.2.1"
   }
 }
