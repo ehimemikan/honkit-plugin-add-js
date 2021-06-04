@@ -1,5 +1,5 @@
 {
-  "name": "@ehimemikan/honkit-plugin-add-js",
+  "name": "honkit-plugin-add-js",
   "version": "0.0.1",
   "description": "custom include js script for honkit",
   "main": "index.js",

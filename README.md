@@ -7,7 +7,7 @@ Add the plugin to your `book.js`:
 
 ```
 module.exports = {
-    "plugins": [ "@ehimemikan/add-js" ]
+    "plugins": [ "add-js" ]
 }
 ```
 
